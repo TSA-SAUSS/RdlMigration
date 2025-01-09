@@ -66,7 +66,7 @@ The Application Client ID that gives you permissions to read and write with the 
 
 To obtain this, do the following:
 
-1. Go to https://dev.powerbi.com/apps .
+1. Go to https://dev.powerbi.com/apps .  Note: you must now use https://app.powerbi.com/embedsetup and after creation change the platform to "Mobile and desktop applications" with the redirect URL of urn:ietf:wg:oauth:2.0:oob
    
 2. Select Sign in with your existing account then select Next.
 
@@ -83,4 +83,3 @@ Click Register, and an application ID (Client-ID) will be provided to you.
 Link : https://docs.microsoft.com/en-us/power-bi/developer/register-app
 
 **NOTE**: In some cases, you may need an admin's approval for the app-id to work.
-
